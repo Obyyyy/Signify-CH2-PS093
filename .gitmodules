@@ -1,3 +1,6 @@
 [submodule "signify-api"]
 	path = signify-api
 	url = https://github.com/Obyyyy/signify-api.git
+[submodule "Signify-ML"]
+	path = Signify-ML
+	url = https://github.com/nizma123/Signify-ML.git
