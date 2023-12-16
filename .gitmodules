@@ -4,3 +4,6 @@
 [submodule "Signify-ML"]
 	path = Signify-ML
 	url = https://github.com/nizma123/Signify-ML.git
+[submodule "Signify-App"]
+	path = Signify-App
+	url = https://github.com/MuhammadAsandyPutra/Signify_CH2_PS093.git
